@@ -103,5 +103,40 @@ A Samba file server enables file sharing across different operating systems over
 
 ------------
 
+## Nextcloud
+
+Nextcloud is a suite of client-server software for creating and using file hosting services. It is enterprise-ready with comprehensive support options. Being free and open-source software, anyone is allowed to install and operate it on their own private server devices.
+ 
+ <a href="https://pimylifeup.com/raspberry-pi-nextcloud-server/">Setup Instructions</a>
+
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+
+------------
 
 
