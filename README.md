@@ -159,3 +159,15 @@ Installation:
     
     $ sudo snap install core 
 ```
+
+
+## Docker
+
+Docker is a tool for creating, deploying, and running applications in containers. The software is popular among developers as it speeds up the development process and does not use a lot of resources.
+
+Docker containers are lightweight, especially compared to virtual machines. This feature is especially valuable if you are a Raspberry Pi user.
+
+If you need help installing Docker on your Raspberry Pi, read our step-by-step guide on how to install Docker on Raspberry Pi.
+
+
+ <a href="https://phoenixnap.com/kb/docker-on-raspberry-pi">Setup Instructions</a>
