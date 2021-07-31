@@ -17,7 +17,6 @@ sudo apt-get upgrade
 ###  GNU Wget
 GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS, the most widely used Internet protocols. It is a non-interactive commandline tool, so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.
 
-Installation:
 ```bash
 sudo sh -c 'echo "deb http://ftp.au.debian.org/debian/ buster main non-free" > /etc/apt/sources.list.d/nonfree.list'
 sudo apt update
@@ -40,6 +39,65 @@ Installation:
     sudo apt update
     sudo apt install webmin
 ```
+
+------------
+
+## Plex Media Server  
+
+Plex Media Server is a user-friendly way to store all your movies, shows, and other media in one place–and make it accessible from any device, whether you’re at home or on-the-go. If you’re looking for a no-headache way to watch your movies anywhere, this is it.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
+
+
+
+
+------------
+
+## Samba 
+
+A Samba file server enables file sharing across different operating systems over a network. It lets you access your files in raspberry pi and share files with Windows and macOS users.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
 
 ------------
 
