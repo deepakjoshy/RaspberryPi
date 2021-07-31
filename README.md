@@ -73,6 +73,8 @@ Plex Media Server is a user-friendly way to store all your movies, shows, and ot
 
 A Samba file server enables file sharing across different operating systems over a network. It lets you access your files in raspberry pi and share files with Windows and macOS users.
 
+ <a href="https://pimylifeup.com/raspberry-pi-samba/">Setup Instructions</a>
+
 .
 
 .
