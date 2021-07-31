@@ -10,6 +10,11 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
+.
+
+.
+ 
+ 
 ------------
 
 
@@ -23,6 +28,10 @@ sudo apt update
 sudo apt install
 ```
 
+.
+
+.
+ 
 ------------
 
 
@@ -40,6 +49,10 @@ Installation:
     sudo apt install webmin
 ```
 
+.
+
+.
+ 
 ------------
 
 ## Plex Media Server  
@@ -56,13 +69,7 @@ Plex Media Server is a user-friendly way to store all your movies, shows, and ot
 
 .
 
-.
-
-.
-
-.
-
-
+. 
 
 
 
@@ -83,23 +90,7 @@ A Samba file server enables file sharing across different operating systems over
 
 .
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
+. 
 
 ------------
 
@@ -120,23 +111,7 @@ Nextcloud is a suite of client-server software for creating and using file hosti
 .
 
 .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-
-
+ 
 ------------
  
 
@@ -160,7 +135,13 @@ Installation:
     $ sudo snap install core 
 ```
 
+.
 
+.
+
+.
+
+------------
 ## Docker
 
 Docker is a tool for creating, deploying, and running applications in containers. The software is popular among developers as it speeds up the development process and does not use a lot of resources.
@@ -171,3 +152,9 @@ If you need help installing Docker on your Raspberry Pi, read our step-by-step g
 
 
  <a href="https://phoenixnap.com/kb/docker-on-raspberry-pi">Setup Instructions</a>
+
+.
+
+.
+
+.
