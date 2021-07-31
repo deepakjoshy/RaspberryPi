@@ -144,11 +144,13 @@ Nextcloud is a suite of client-server software for creating and using file hosti
 ## Snap
 
 What are Snap Packages?
+
 Snaps are cross-distribution, dependency-free, and easy to install applications packaged with all their dependencies to run on all major Linux distributions. From a single build, a snap (application) will run on all supported Linux distributions on desktop, in the cloud, and IoT. Supported distributions include Ubuntu, Debian, Fedora, Arch Linux, Manjaro, and CentOS/RHEL.
 
 Snaps are secure – they are confined and sandboxed so that they do not compromise the entire system. They run under different confinement levels (which is the degree of isolation from the base system and each other). More notably, every snap has an interface carefully selected by the snap’s creator, based on the snap’s requirements, to provide access to specific system resources outside of their confinement such as network access, desktop access, and more.
 
-Installtion 
+Installation:
+
 ```bash
     $ sudo apt update
     $ sudo apt install snapd
