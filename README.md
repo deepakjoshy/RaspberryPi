@@ -75,6 +75,25 @@ Plex Media Server is a user-friendly way to store all your movies, shows, and ot
 
 ------------
 
+## Setting Up Mount Drive
+
+It’s important to know that Raspbian lite currently does not automatically mount your drives. So you will need to either set it up manually or install the software package to have it automatically mount.
+
+https://pimylifeup.com/raspberry-pi-mount-usb-drive/
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+------------
+
 ## Samba 
 
 A Samba file server enables file sharing across different operating systems over a network. It lets you access your files in raspberry pi and share files with Windows and macOS users.
@@ -84,7 +103,13 @@ A Samba file server enables file sharing across different operating systems over
 .
 
 .
+```bash
+    sudo apt-get update
+    sudo apt-get upgrade 
+    sudo apt-get install samba samba-common-bin
 
+
+```
 .
 
 .
