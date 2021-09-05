@@ -58,6 +58,7 @@ Installation:
 
 Plex Media Server is a user-friendly way to store all your movies, shows, and other media in one place–and make it accessible from any device, whether you’re at home or on-the-go. If you’re looking for a no-headache way to watch your movies anywhere, this is it.
 
+https://pimylifeup.com/raspberry-pi-plex-server/
 .
 
 .
