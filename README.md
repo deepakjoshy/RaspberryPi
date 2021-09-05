@@ -130,6 +130,11 @@ Nextcloud is a suite of client-server software for creating and using file hosti
 
 .
 
+Use ntfs-3g in /etc/fstab config if facing persmission issue while using external drives having NTFS partition.
+
+eg: Line in /etc/fstab
+UUID=XXXXXXXXXXX /mnt/nextcloud/data ntfs-3g defaults,permissions      0       0
+
 .
 
 .
