@@ -190,3 +190,17 @@ If you need help installing Docker on your Raspberry Pi, read our step-by-step g
 .
 
 .
+
+
+
+
+
+
+------------
+
+### Purchase Links
+<a href="https://robu.in/product/raspberry-pi-4-model-b-with-4-gb-ram/"> Raspberry Pi 4 </a>
+
+<a href="https://robu.in/product/7-official-raspberry-pi-display-with-capacitive-touchscreen/"> 7″ Official Raspberry Pi Display with Capacitive Touchscreen </a>
+
+<a href="https://robu.in/product/raspberry-pi-4-model-b-touchscreen-7-inch-display-case-abs-red/"> Raspberry Pi 4 Model B Touchscreen 7 inch Display Case </a>
