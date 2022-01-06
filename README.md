@@ -2,6 +2,8 @@
 
 ## Guide for beginner's to setup Raspberry Pi Home Server
 
+<span align="center" ><img align="center" src="https://raw.githubusercontent.com/deepakjoshy/RaspberryPi/main/Assets/RP.jpeg" /></span>
+
 Install Raspberry Pi OS using Raspberry Pi Imager : <a href="https://downloads.raspberrypi.org/imager/imager_latest.exe">Windows</a>  |  <a href="https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb">Ubuntu</a>
 
 After booting raspberry pi for first time update the os with latest components.
